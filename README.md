@@ -21,7 +21,7 @@ Country Analysis:
 * Interactive visualizations to explore content distribution across different countries.
 Runtime Analysis:
 
-*## Insights into the average runtime of movies, highlighting patterns in length preferences.*
+*Insights into the average runtime of movies, highlighting patterns in length preferences.*
 
 *Skills and Tools Used*
 * Data Cleaning: Preparation and transformation of raw data for analysis.
@@ -30,7 +30,9 @@ Runtime Analysis:
 * Power BI Expertise: Leveraging advanced features for filtering, segmentation, and storytelling.
 
 # About the Project
+
 This project emphasizes turning complex data into meaningful stories through visually appealing dashboards. It highlights the use of data visualization to drive insights that can influence content strategy, audience targeting, and global market analysis.
 
 *How to Explore*
+
 Feel free to download the .pbix file or view the included visuals to explore the dashboard yourself. Feedback is welcome!

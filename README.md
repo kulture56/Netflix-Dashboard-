@@ -1,4 +1,4 @@
-# Netflix-Dashboard-
+## Netflix-Dashboard-
 ![NetflixIntroGIF](https://github.com/user-attachments/assets/96b25186-d19f-41c3-9e96-03995a67880e) ![NetflixGIF](https://github.com/user-attachments/assets/a9820d6b-c95c-41bb-aa2d-b15d73c97a31)
 
 This project showcases the creation of an interactive Power BI dashboard for analyzing and visualizing Netflix’s vast content library. By leveraging powerful data analytics and visualization techniques, the dashboard delivers actionable insights that can be used for strategic content planning and audience engagement.
